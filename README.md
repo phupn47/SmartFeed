@@ -1,6 +1,11 @@
 # Smart Feed
 This is my self-developed IoT project designed to simplify the process of feeding pets. The system allows feeding in three different ways: directly from the feeder machine, remotely via the Blynk Application, or automatically through scheduled feeding.
 
+## Prototype Drawing
+
+<img src="https://github.com/user-attachments/assets/f8261e24-d53b-4e4e-8b04-b90027b989ac" alt="prototype_drawing" width="400" height="500" >
+
+
 ## Features
 - Manual Feeding (Feeder Button): Users can press the physical button on the feeder to dispense food instantly.
 - Remote Feeding (Blynk App): Food can be dispensed remotely by pressing the button within the Blynk application.
